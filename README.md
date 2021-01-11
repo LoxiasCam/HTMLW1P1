@@ -17,7 +17,6 @@
 
     GitHub: @LoxiasCam
     Twitter: @jcamilop96
-    LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-camilo-pati%C3%B1o-33a7331ba)
 
 ## 🤝 Contributing
 
